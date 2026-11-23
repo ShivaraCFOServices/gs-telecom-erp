@@ -1,0 +1,15 @@
+{
+  "name": "GS Telecom ERP",
+  "short_name": "GS Telecom",
+  "description": "Billing, stock and accounts for the shop — simple to use.",
+  "start_url": "./index.html#/home",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": [
+    { "src": "icons/logo.png", "sizes": "852x852", "type": "image/png", "purpose": "any" },
+    { "src": "icons/logo-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
